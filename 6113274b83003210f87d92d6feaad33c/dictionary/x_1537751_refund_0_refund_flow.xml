@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="98472b8f83003210f87d92d6feaad3fa" extends="task" label="Refund Flow" max_length="40" name="x_1537751_refund_0_refund_flow" type="collection">
+        <element label="Reproval reason" max_length="255" name="reproval_reason" type="string"/>
+        <element label="Request date" max_length="40" name="request_date" type="string"/>
+        <element label="Expense date" max_length="40" name="expense_date" type="glide_date"/>
+        <element label="Value in BRL" max_length="38" name="value_in_brl" type="decimal"/>
+        <element label="Refund number" max_length="40" name="refund_number" type="string"/>
+        <element label="Direct manager" max_length="32" name="direct_manager" reference="sys_user" type="reference"/>
+        <element label="Solver group" max_length="32" name="solver_group" reference="sys_user_group" type="reference"/>
+        <element label="Applicant" max_length="32" name="applicant" reference="sys_user" type="reference"/>
+        <element label="Value in USD" max_length="40" name="value_in_usd" type="currency"/>
+        <element label="Category" max_length="32" name="category" reference="sc_category" type="reference"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting Payment" sequence="2" value="awaiting_payment"/>
+                <element inactive_on_update="false" label="Completed" sequence="4" value="completed"/>
+                <element inactive_on_update="false" label="Awainting Manager Approval" sequence="1" value="awainting_manager_approval"/>
+                <element inactive_on_update="false" label="Rejected" sequence="3" value="rejected"/>
+                <element inactive_on_update="false" label="Draft" sequence="0" value="draft"/>
+            </choice>
+        </element>
+    </element>
+</database>
