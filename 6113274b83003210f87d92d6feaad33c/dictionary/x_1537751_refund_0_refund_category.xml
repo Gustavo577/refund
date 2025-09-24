@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="21fd3f4b83803210f87d92d6feaad389" label="Refund category" max_length="40" name="x_1537751_refund_0_refund_category" type="collection">
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
         <element label="Description" max_length="255" name="description" type="string"/>
         <element label="Creation date" max_length="40" name="creation_date" type="glide_date_time"/>
-        <element display="true" label="Category name" max_length="40" name="category_name" type="string"/>
+        <element label="Category name" max_length="40" name="category_name" type="string"/>
         <element label="Solver group" max_length="32" name="solver_group" reference="sys_user_group" type="reference"/>
         <index name="index">
             <element name="solver_group"/>
