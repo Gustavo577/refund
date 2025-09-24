@@ -79,14 +79,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-09-22 20:05:27</sys_created_on>
         <sys_id>abc9081b83c03210f87d92d6feaad395</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>value_in_brl</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Value</sys_name>
         <sys_package display_value="Refund app" source="x_1537751_refund_0">6113274b83003210f87d92d6feaad33c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Refund app">6113274b83003210f87d92d6feaad33c</sys_scope>
         <sys_update_name>item_option_new_abc9081b83c03210f87d92d6feaad395</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-23 20:48:06</sys_updated_on>
+        <sys_updated_on>2025-09-24 12:55:11</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
