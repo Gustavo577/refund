@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">c2c723f38388f210f87d92d6feaad3b7</canvas>
+        <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
+        <component_props>{"variant":"header-hero","label":"Here you will have access to data from our refund system.","wontWrap":false,"hasNoMargin":false,"level":"1","id":"variant","value":"header-hero","propLabel":"Style","noDebounce":true}</component_props>
+        <h>3</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 01:57:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2bdde3bb8388f210f87d92d6feaad399</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Refund app" source="x_1537751_refund_0">6113274b83003210f87d92d6feaad33c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Refund app">6113274b83003210f87d92d6feaad33c</sys_scope>
+        <sys_update_name>par_dashboard_widget_2bdde3bb8388f210f87d92d6feaad399</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 02:36:31</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Refund app">6113274b83003210f87d92d6feaad33c</application>
+        <file_path/>
+        <instance_id>b9a99ec3fb3706d8363cf633beefdc96</instance_id>
+        <instance_name>dev286916</instance_name>
+        <name>par_dashboard_widget_2bdde3bb8388f210f87d92d6feaad399</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">c2c723f38388f210f87d92d6feaad3b7</canvas><component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component><component_props>{"variant":"header-hero","label":"Here you will have access to data from our refund system.","wontWrap":false,"hasNoMargin":false,"level":"1","id":"variant","value":"header-hero","propLabel":"Style","noDebounce":true}</component_props><h>3</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-25 01:57:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2bdde3bb8388f210f87d92d6feaad399</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Refund app" source="x_1537751_refund_0">6113274b83003210f87d92d6feaad33c</sys_package><sys_policy/><sys_scope display_value="Refund app">6113274b83003210f87d92d6feaad33c</sys_scope><sys_update_name>par_dashboard_widget_2bdde3bb8388f210f87d92d6feaad399</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-25 02:36:31</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1559332929</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>a659a5e7834c7210f87d92d6feaad32f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 02:36:31</sys_created_on>
+        <sys_id>e1c633f383c8f210f87d92d6feaad375</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1997ebabd960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 02:36:31</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>69c633f36bc8f21027bf339ec6c87d74</update_guid>
+        <update_guid_history>69c633f36bc8f21027bf339ec6c87d74:-1559332929,e7dde3bb0f88f2101a775cac6de7229b:83780702</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">3ffb314083543610f87d92d6feaad312</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 12:18:35</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>447004088d8f41e1a0b1cb58381c4649</sys_id>
+        <sys_metadata>2bdde3bb8388f210f87d92d6feaad399</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Refund app" source="x_1537751_refund_0">6113274b83003210f87d92d6feaad33c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Refund app">6113274b83003210f87d92d6feaad33c</sys_scope>
+        <sys_scope_delete display_value="">1cea8a46f17445548bd836d0b675c1c4</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_2bdde3bb8388f210f87d92d6feaad399</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_2bdde3bb8388f210f87d92d6feaad399">e1c633f383c8f210f87d92d6feaad375</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 12:18:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="value_in_brl" label="Value in BRL" language="en" table="x_1537751_refund_0_refund_flow">
+    <sys_documentation element="integration_state" label="Integration state" language="en" table="x_1537751_refund_0_refund_flow">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>value_in_brl</element>
+            <element>integration_state</element>
             <help/>
             <hint/>
-            <label>Value in BRL</label>
+            <label>Integration state</label>
             <language>en</language>
             <name>x_1537751_refund_0_refund_flow</name>
             <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-22 17:50:31</sys_created_on>
-            <sys_mod_count>9</sys_mod_count>
-            <sys_name>Value in BRL</sys_name>
+            <sys_created_on>2025-09-26 00:00:15</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Integration state</sys_name>
             <sys_package display_value="Refund app" source="x_1537751_refund_0">6113274b83003210f87d92d6feaad33c</sys_package>
             <sys_policy/>
             <sys_scope display_value="Refund app">6113274b83003210f87d92d6feaad33c</sys_scope>
-            <sys_update_name>sys_documentation_x_1537751_refund_0_refund_flow_value_in_brl_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_1537751_refund_0_refund_flow_integration_state_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-26 01:48:22</sys_updated_on>
+            <sys_updated_on>2025-09-26 00:01:09</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

@@ -6,9 +6,17 @@
         <element label="Value in BRL" max_length="38" name="value_in_brl" type="decimal"/>
         <element label="Refund number" max_length="40" name="refund_number" type="string"/>
         <element label="Direct manager" max_length="32" name="direct_manager" reference="sys_user" type="reference"/>
+        <element choice="1" default="1" label="Integration state" max_length="40" name="integration_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Integration success" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Integration" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Integration failure" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Starting" sequence="0" value="1"/>
+            </choice>
+        </element>
         <element label="Solver group" max_length="32" name="solver_group" reference="sys_user_group" type="reference"/>
         <element label="Applicant" max_length="32" name="applicant" reference="sys_user" type="reference"/>
-        <element label="Value in USD" max_length="40" name="value_in_usd" type="currency"/>
+        <element label="Value in USD" max_length="38" name="value_in_usd" type="currency"/>
         <element label="Refund category" max_length="32" name="category" reference="x_1537751_refund_0_refund_category" type="reference"/>
     </element>
 </database>
